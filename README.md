@@ -65,7 +65,6 @@ Setup and Installation
 
 git clone https://github.com/Ashish4021/employee-management-system.git
 
-Replace the URL with your actual GitHub repository URL.
 
 2. Open the Project
 
@@ -77,7 +76,6 @@ Open the cloned project in IntelliJ IDEA and allow Maven to load the dependencie
 - Create a database for the application.
 - Configure the database URL, username, and password in your local "application.properties" file.
 
-Security note: Never commit real database passwords, API keys, or other secrets to a public repository.
 
 4. Run the Application
 
@@ -96,7 +94,6 @@ GET| Retrieve an employee by ID
 PUT| Update an employee
 DELETE| Delete an employee
 
-Use the actual endpoint paths defined in the application.
 
 Pagination and Sorting
 
