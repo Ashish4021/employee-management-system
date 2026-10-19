@@ -63,7 +63,7 @@ Setup and Installation
 
 1. Clone the Repository
 
-git clone https://github.com/YOUR-USERNAME/YOUR-REPOSITORY.git
+git clone https://github.com/Ashish4021/employee-management-system.git
 
 Replace the URL with your actual GitHub repository URL.
 
